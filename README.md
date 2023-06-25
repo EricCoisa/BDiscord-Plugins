@@ -1,2 +1,6 @@
-# GameCallFocus
-Mute every player has non in same game on Discord
+# Game Call Focus
+
+Plugin para o BetterDiscord:
+Reduzir o audio dos players que não estão no mesmo jogo
+
+
