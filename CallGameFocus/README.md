@@ -1,0 +1,11 @@
+# CallGameFocus
+### Reduzir o audio dos players que não estão no mesmo jogo
+
+## Necessário fazer o Download do:
+### [BetterDiscord](https://betterdiscord.app/)
+
+## Download do Plugin:
+### [CallGameFocus](https://github.com/EricCoisa/BDiscord-Plugins/CallGameFocus/build/CallGameFocus.plugin.js)
+
+### Exemplo
+![1](https://raw.githubusercontent.com/EricCoisa/BDiscord-Plugins/CallGameFocus/util/CallGameFocus-Example.png)

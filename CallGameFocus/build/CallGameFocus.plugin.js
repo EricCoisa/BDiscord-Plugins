@@ -1,9 +1,14 @@
 /**
  * @name CallGameFocus
- * @author Coisa
- * @description Plugin para o BetterDiscord: Reduzir o audio dos players que não estão no mesmo jogo
  * @version 1.2
+ * @author Coisa
+ * @authorLink https://github.com/EricCoisa
+ * @description Reduzir o audio dos players que não estão no mesmo jogo
+ * @website https://github.com/EricCoisa/BDiscord-Plugins
+ * @source https://github.com/EricCoisa/BDiscord-Plugins/CallGameFocus/build/CallGameFocus.plugin.js
+ * 
  */
+
 const VolumeMinimo = 5; //Volume Reduzido
 const VolumeNormal = 90; //Volume Padrão
 //## CONTROLE DE VOLUME INDIVIDUAL ##//

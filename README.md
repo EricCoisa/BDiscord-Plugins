@@ -1,6 +1,4 @@
-# Game Call Focus
+# Plugins para BetterDiscord
 
-Plugin para o BetterDiscord:
-Reduzir o audio dos players que não estão no mesmo jogo
-
-
+## Reduzir o audio dos players que não estão no mesmo jogo
+### [GameCallFocus](https://github.com/EricCoisa/BDiscord-Plugins/CallGameFocus)
