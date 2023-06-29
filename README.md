@@ -1,3 +1,6 @@
-# **Plugins para BetterDiscord**
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/EricCoisa/BDiscord-Plugins/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-red.svg)](https://github.com/EricCoisa/BDiscord-Plugins/README.pt-br.md)
 
-### [GameCallFocus](https://github.com/EricCoisa/BDiscord-Plugins/tree/main/CallGameFocus) - Reduzir o audio dos players que não estão no mesmo jogo 
+# **BetterDiscord Plugins**
+
+### [GameCallFocus](https://github.com/EricCoisa/BDiscord-Plugins/tree/main/CallGameFocus) - Decrease audio from players who are not in the same game
