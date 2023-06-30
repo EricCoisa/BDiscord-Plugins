@@ -9,10 +9,10 @@
  * 
  */
 
-const VolumeMinimo = 5; //Volume Reduzido
-const VolumeNormal = 90; //Volume Padrão
+const VolumeMin = 5; //Volume Reduzido
+const VolumeMax = 90; //Volume Padrão
 //## CONTROLE DE VOLUME INDIVIDUAL ##//
-const ForcarVolume = {Nekotina:10, Coisa:200};
+const ForceVolume = {Nekotina:10, Coisa:200};
 
 
 ///ALTERA O AUDIO START
@@ -148,8 +148,8 @@ module.exports = class CPlus {
         
         ListaJogadoresEmCall.forEach(player => {     
             if(player[3] == false){
-                var volume = VolumeNormal;
-                var forcarVolume = ForcarVolume[player[1]];
+                var volume = VolumeMax;
+                var forcarVolume = ForceVolume[player[1]];
                 if(forcarVolume != undefined){
                     volume = forcarVolume;
                 }
@@ -171,7 +171,7 @@ module.exports = class CPlus {
         ListaJogadoresEmCall.forEach(player => {
             if(player[0] == idUsuario || player[3] == true){return false} //se for o player ou estiver mutado
             if(player[2] != jogoAtual){
-                MediaEngineActions.setLocalVolume(player[0], VolumeMinimo, null);
+                MediaEngineActions.setLocalVolume(player[0], VolumeMin, null);
             }
         });
         return true;

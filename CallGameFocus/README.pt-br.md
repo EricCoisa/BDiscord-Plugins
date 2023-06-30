@@ -3,27 +3,27 @@
 
 # CallGameFocus
 
-## Description
-Decrease audio from players who are not in the same game
+## Descrição
+Reduzir o áudio dos jogadores que não estão no mesmo jogo
 
-## Installation
-Need to download:
+## Instalação
+Necessário fazer o Download do:
 [BetterDiscord](https://betterdiscord.app/)
 
-Plugin Download:
+Download do Plugin: 
 [CallGameFocus](https://github.com/EricCoisa/BDiscord-Plugins/blob/main/CallGameFocus/build/CallGameFocus.plugin.js)
 
-## Example
+## Exemplo
 ![1](https://github.com/EricCoisa/BDiscord-Plugins/blob/main/CallGameFocus/util/CallGameFocus-Example.png?raw=true)
 
-## Settings
-It is possible to change the default volume of the plugin by changing the variables at the beginning (VolumeMin And VolumeMax).
+## Configurações
+É Possível alterar o volume padrão do plugin alterando as variáveis no início (VolumeMin E VolumeMax).
 
-It is also possible to force the volume of each user by adding to the ForcarVolume variable: **Example**
+Também é possível forçar o volume de cada usuário adicionando na variável ForcarVolume: **Exemplo**
 ```bash
-ForceVolume = {UserName:10};
+ForceVolume = {NomeUsuario:10};
 ```
 
-## Comments
-Plugin made without BetterDiscord documentation.
-Limited functionality... but it works
+## Observações
+Plugin feito sem a documentação do BetterDiscord.
+Funcionamento limitado... mas funciona
