@@ -19,7 +19,7 @@ Download do Plugin:
 ## Configurações
 É Possível alterar o volume padrão do plugin alterando as variáveis no início (VolumeMin E VolumeMax).
 
-Também é possível forçar o volume de cada usuário adicionando na variável ForcarVolume: **Exemplo**
+Também é possível forçar o volume de cada usuário adicionando na variável ForceVolume: **Exemplo**
 ```bash
 ForceVolume = {NomeUsuario:10};
 ```
