@@ -13,7 +13,7 @@ Need to download:
 Plugin Download:
 [CallGameFocus](https://github.com/EricCoisa/BDiscord-Plugins/blob/main/CallGameFocus/build/CallGameFocus.plugin.js)
 
-## Example
+## Preview
 ![1](https://github.com/EricCoisa/BDiscord-Plugins/blob/main/CallGameFocus/util/CallGameFocus-Example.png?raw=true)
 
 ## Settings
