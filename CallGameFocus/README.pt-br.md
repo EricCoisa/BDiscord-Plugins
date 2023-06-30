@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/EricCoisa/BDiscord-Plugins/CallGameFocus/util/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/EricCoisa/BDiscord-Plugins/tree/main/CallGameFocus)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-red.svg)](https://github.com/EricCoisa/BDiscord-Plugins/CallGameFocus/util/README.pt-br.md)
 
 # CallGameFocus
