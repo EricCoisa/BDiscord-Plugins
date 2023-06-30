@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/EricCoisa/BDiscord-Plugins/tree/main/CallGameFocus)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-red.svg)](https://github.com/EricCoisa/BDiscord-Plugins/blob/main/CallGameFocus/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)][a relative link](EricCoisa/BDiscord-Plugins/tree/main/CallGameFocus)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-red.svg)][a relative link](EricCoisa/BDiscord-Plugins/blob/main/CallGameFocus/README.pt-br.md)
 
 # CallGameFocus
 
